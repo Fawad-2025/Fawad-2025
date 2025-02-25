@@ -15,7 +15,7 @@
 - 💻 I use daily: **.js**, **.java**, **.py**,  **.sql**
 - 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals), Silicon Valley & startups
 - 👯 We can connect to play some games of Chess ♟
-- ⚡ Fun fact:Octopuses have three hearts, and one stops beating when they swim! 🐙❤️
+- ⚡ Fun fact: Octopuses have three hearts, and one stops beating when they swim! 🐙❤️
 - 🧑‍💻 Tech I work on :
 
 <p align="center">

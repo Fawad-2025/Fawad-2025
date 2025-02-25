@@ -2,7 +2,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/fawad-ahmed-2b6637224/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="fawad-ahmed-2b6637224" height="30" width="30" /></a>&nbsp;
 <a href="http://discord.com/users/faddy2514" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="faddy2514" height="40" width="30" /></a>&nbsp;
-<a href="https://www.facebook.com/Fāwąd Ăhmęd" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Fāwąd Ăhmęd" height="40" width="30" />
+<a href="https://www.facebook.com/fawad.ahmed.5817/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="fawad.ahmed.5817/" height="40" width="30" />
    </a>
 
 </p>

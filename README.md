@@ -12,7 +12,7 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏦 I am Fawad, a dedicated and hardworking professional from Pakistan. With expertise in Amazon services and a passion for technology, I thrive on solving challenges and continuously expanding my skill set
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 💻 I use daily: **.js**, **.java**, **.py**,  **.sql**
+- 💻 I use daily: **.html**, **.css**, **.react**,  **.bootstrap**
 - 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals), Silicon Valley & startups
 - 👯 We can connect to play some games of Chess ♟
 - ⚡ Fun fact: Octopuses have three hearts, and one stops beating when they swim! 🐙❤️
